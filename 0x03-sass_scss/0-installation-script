@@ -1,0 +1,13 @@
+# Install Sass Globally (via npm)
+
+Make sure Node.js is installed
+Check with the command node -v
+### Install Sass globally
+
+- run npm install -g sass
+
+### verify the installation 
+
+- run sass --version
+
+
