@@ -2,11 +2,11 @@
 1. Make sure Node.js is installed
 - Check with the command node -v
 
-### Install Sass globally
+2.Install Sass globally
 
 - run npm install -g sass
 
-### verify the installation 
+3. verify the installation 
 
 - run sass --version
 
