@@ -1,7 +1,7 @@
-# Install Sass Globally (via npm)
+# SASS installation process
+1. Make sure Node.js is installed
+- Check with the command node -v
 
-Make sure Node.js is installed
-Check with the command node -v
 ### Install Sass globally
 
 - run npm install -g sass
